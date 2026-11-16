@@ -1,0 +1,19 @@
+[
+  {
+    "id": "example-001",
+    "role": "Software Developer",
+    "reqNumber": null,
+    "jobUrl": "https://example.com/careers/software-developer",
+    "description": "Fictional posting for demonstrating application tracking, not a real vacancy.",
+    "skills": ["Python", "SQL", "Git", "automated testing"],
+    "status": "interested",
+    "dateAdded": "2026-01-01",
+    "applicationDate": null,
+    "interviewDate": null,
+    "resumeUsed": null,
+    "coverLetterUsed": null,
+    "atsMatchPercentage": null,
+    "notes": "Fictional example only. Use paths relative to a private company folder when attaching real files.",
+    "salaryRange": null
+  }
+]
